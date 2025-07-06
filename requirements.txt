@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+pymupdf
+arxiv
+ollama
+openai
+pypdf
