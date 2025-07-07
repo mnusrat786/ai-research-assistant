@@ -8,7 +8,7 @@ from core.agent_runner import run_agent
 
 # Streamlit config
 st.set_page_config(page_title="AI Research Agent", layout="wide")
-st.title("🤖 AI Research Assistant")
+st.title("AI Research Assistant")
 
 # Optional summary mode
 mode = st.radio("Summary Mode", ["📝 High-Level Summary", "🔬 Deep Technical Breakdown"])
