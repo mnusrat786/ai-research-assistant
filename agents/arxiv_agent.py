@@ -1,5 +1,4 @@
 import arxiv
-
 def search_arxiv(query, max_results=10):
     search = arxiv.Search(query=query, max_results=max_results)
     results = []
